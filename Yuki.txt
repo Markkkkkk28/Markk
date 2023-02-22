@@ -1,0 +1,13 @@
+<html>
+<title>Hakdog</title>
+
+<head>
+<h1>Student Information</h1>
+<li>Ben10</li>
+<li>2220</li>
+<li>2nd Year</li>
+<li>BSIT</li>
+<hr>
+
+</head>
+<html>
